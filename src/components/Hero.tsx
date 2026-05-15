@@ -22,7 +22,7 @@ const Hero = () => {
         </p>
         
         <a 
-          href="https://wa.me/55999999999" 
+          href="https://wa.me/+5512996628753"
           target="_blank" 
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-700 hover:to-purple-800 text-white font-bold py-3 px-8 rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg mb-4"
